@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="imguidemo/imguidemo.vcxproj" Id="98e9f246-d3df-49d3-941b-1e12b0d28710" />
+</Solution>
