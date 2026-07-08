@@ -4,7 +4,7 @@ A modern customizable cheat menu framework based on **Dear ImGui + DirectX11**.
 
 This project provides a lightweight and clean UI system for Windows applications, game tools, debug menus, and custom overlays. It includes a custom ImGui extension layer (`imguiSDK`) that simplifies creating modern interfaces with animations, custom widgets, and theme support.
 
-![Preview](d8c8448cd39fdd338fd83da99e356d2c.png)
+<img width="1110" height="709" alt="d8c8448cd39fdd338fd83da99e356d2c" src="https://github.com/user-attachments/assets/3025d9bd-d143-4672-ad8d-d9c86256b968" />
 
 ## Features
 
@@ -32,30 +32,6 @@ Recommended:
 Visual Studio 2022
 C++17 or newer
 Windows SDK
-
-
-## Project Structure
-
-
-Windows-DX11-ImGui-CheatMenu
-│
-├── imgui/
-│ ├── imgui.cpp
-│ ├── imgui.h
-│ ├── imgui_internal.h
-│ └── backends/
-│
-├── imguiSDK/
-│ ├── imguiSDK.cpp
-│ └── imguiSDK.h
-│
-├── main.cpp
-├── Renderer/
-│
-└── README.md
-
-
----
 
 # Installation
 
