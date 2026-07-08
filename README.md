@@ -74,15 +74,6 @@ imguiSDK.h
 
 You only need to add these two files into your project.
 
-Example:
-
-
-YourProject
-│
-├── imguiSDK.cpp
-└── imguiSDK.h
-
-
 Then include:
 
 ```cpp
